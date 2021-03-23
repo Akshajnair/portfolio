@@ -11968,7 +11968,7 @@
         "marie-morelle": {
             image: "./build/img/pcb",
             color: 16777215,
-            size: "portrait"
+            size: "square"
         },
         "sword-group": {
             image: "./build/img/projects/04@2x",
