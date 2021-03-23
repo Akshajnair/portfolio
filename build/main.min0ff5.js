@@ -11966,7 +11966,7 @@
             size: "landscape"
         },
         "marie-morelle": {
-            image: "./build/img/tp",
+            image: "./build/img/pcb.jpg",
             color: 16777215,
             size: "portrait"
         },
@@ -11989,7 +11989,7 @@
     var b = 0,
         x = null;
     window.dispatcher.on("vs:scroll:init", function () {
-        var t = ["hi", "akshaj.online"].join("@"),
+        var t = ["itsme.akshajnair", "gmail.com"].join("@"),
             e = document.querySelector(".about-end-mail");
         e.setAttribute("href", "mailto:" + t), e.innerHTML = t, b = window.customScrollbar.offset.y, T(), m = new d.default(y);
         var r = new h.loaders.Loader,
