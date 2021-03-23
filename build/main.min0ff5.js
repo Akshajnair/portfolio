@@ -11966,7 +11966,7 @@
             size: "landscape"
         },
         "marie-morelle": {
-            image: "./build/img/pcb.jpg",
+            image: "./build/img/pcb",
             color: 16777215,
             size: "portrait"
         },
