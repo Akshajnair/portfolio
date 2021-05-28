@@ -11960,7 +11960,7 @@
     }, document.addEventListener("mousemove", _), document.addEventListener("touchmove", _), document.addEventListener("touchmove", function () {
         window.isTouch = !0
     }), window.cursor = f.default, window.isTouch = !1, f.default.start(), f.default.addLinkListeners(document.body), window.works = {
-        agili3f: {
+        "sih": {
             image: "./build/img/sih",
             color: 15658734,
             size: "landscape"
