@@ -11978,23 +11978,23 @@
         "tictactoe": {
             image: "./build/img/tictactoe",
             color: 15594748,
-            size: "lanscape"
+            size: "landscape"
         },
         "handpose": {
             image: "./build/img/handpose",
             color: 16316664,
-            size: "lanscape"
+            size: "landscape"
         },
         "rockpaperscissor": {
             image: "./build/img/rockpaperscissor",
             color: 15328488,
-            size: "lanscape"
+            size: "landscape"
         }
     }, window.customScrollbar = {}, window.progress = 0;
     var b = 0,
         x = null;
     window.dispatcher.on("vs:scroll:init", function () {
-        var t = ["itsme.akshajnair", "gmail.com"].join("@"),
+        var t = ["mail", "akshajnair.com"].join("@"),
             e = document.querySelector(".about-end-mail");
         e.setAttribute("href", "mailto:" + t), e.innerHTML = t, b = window.customScrollbar.offset.y, T(), m = new d.default(y);
         var r = new h.loaders.Loader,
