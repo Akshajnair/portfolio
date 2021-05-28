@@ -11965,25 +11965,30 @@
             color: 15658734,
             size: "landscape"
         },
-        "marie-morelle": {
+        "homeautomation": {
             image: "./build/img/pcb",
             color: 16777215,
             size: "square"
         },
-        "sword-group": {
-            image: "./build/img/projects/04@2x",
+        "wishes": {
+            image: "./build/img/wishes",
             color: 15594748,
-            size: "portrait"
+            size: "landscape"
         },
-        "fete-des-lumieres": {
-            image: "./build/img/projects/06@2x",
+        "tictactoe": {
+            image: "./build/img/tictactoe",
+            color: 15594748,
+            size: "lanscape"
+        },
+        "handpose": {
+            image: "./build/img/handpose",
             color: 16316664,
-            size: "square"
+            size: "lanscape"
         },
-        lense: {
-            image: "./build/img/projects/05@2x",
+        "rockpaperscissor": {
+            image: "./build/img/rockpaperscissor",
             color: 15328488,
-            size: "portrait"
+            size: "lanscape"
         }
     }, window.customScrollbar = {}, window.progress = 0;
     var b = 0,
